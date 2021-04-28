@@ -1,0 +1,20 @@
+﻿  bullet.cpp
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\bullet.cpp(17,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\bullet.cpp(18,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\bullet.cpp(27,12): warning C4552: '-': result of expression not used
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\bullet.cpp(28,12): warning C4552: '-': result of expression not used
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\bullet.cpp(29,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\bullet.cpp(30,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\bullet.cpp(41,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  enemy.cpp
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\enemy.cpp(21,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\enemy.cpp(25,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\enemy.cpp(26,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\main.cpp(39,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\main.cpp(43,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\main.cpp(112,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\main.cpp(112,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\SDLGame\main.cpp(216,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SDLGame.vcxproj -> C:\Users\Icebo\Documents\Pc\Non Pc\School Work\Advanced C#\3\Full Project\TRobinsonCPPProject3_1A\SDLGame\x64\Debug\SDLGame.exe
